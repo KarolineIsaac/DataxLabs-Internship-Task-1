@@ -1,0 +1,15 @@
+# Data Cleaning Summary
+
+Dataset: Netflix Movies and TV Shows
+
+Cleaning Steps Performed:
+
+1. Checked missing values using isnull().
+2. Removed duplicate records using drop_duplicates().
+3. Standardized text formatting.
+4. Renamed column headers to lowercase with underscores.
+5. Verified and corrected data types.
+6. Saved cleaned dataset for analysis.
+
+Outcome:
+The dataset is now consistent, structured, and ready for further analysis.
